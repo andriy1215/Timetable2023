@@ -1,0 +1,87 @@
+body{
+    background-color: black;
+    
+}
+
+ header h1{
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+ }
+
+ .e{
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+ }
+
+.yrok{
+    background-color: white;
+    text-align: center;
+    width: 100px;
+    padding: 5px;
+    margin-left: 10px;
+    float: left;
+    margin-top: 60px;
+}
+
+.prudmet{
+    background-color: white;
+    text-align:center;
+    width: 150px;
+    padding: 5px;
+    margin-left: 10px;
+    float: left;  
+}
+
+.top{
+    background-color: white;
+    text-align:center;
+    width: 150px;
+    padding: 5px;
+    margin-left: 10px;
+    float: left; 
+    margin-top: 60px; 
+}
+
+.vse{
+    background-color: white;
+    border: 10px solid darkblue;
+    border-radius: 20px;
+    height: 440px;
+    width: 470px;
+    text-align: center;
+}
+
+.b{
+    border: 3px solid darkcyan;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.r{
+    text-align: center;
+    float: left;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.qw{
+    background-color: #8D8D8D;  
+    width: 1530px; 
+    height: 1050px;
+    border-radius: 20px;
+    display: inline-block;
+
+}
+
+.q{
+    text-align: center;
+}
+
+.m{
+    color: white;
+}
+
+
+
